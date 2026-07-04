@@ -26,19 +26,19 @@ new class extends Component
     @livewire('sections.services')
 
     <!-- Portfolio Section -->
-    @livewire('sections.portfolio')
+    {{-- @livewire('sections.portfolio') --}}
 
     <!-- Testimonials Section -->
-    @livewire('sections.testimonials')
+    {{-- @livewire('sections.testimonials') --}}
 
     <!-- Pricing Section -->
-    @livewire('sections.pricing')
+    {{-- @livewire('sections.pricing') --}}
 
     <!-- Faq Section -->
     @livewire('sections.faq')
 
     <!-- Team Section -->
-    @livewire('sections.team')
+    {{-- @livewire('sections.team') --}}
 
     <!-- Recent Posts Section -->
     @livewire('sections.recent_post')

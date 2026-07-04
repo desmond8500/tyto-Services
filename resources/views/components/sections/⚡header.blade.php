@@ -12,8 +12,8 @@ new class extends Component
             (object) array('name'=> 'Accueil', 'route'=>'', 'href'=>'#hero'),
             (object) array('name'=> 'A propos', 'route'=>'', 'href'=>'#about'),
             (object) array('name'=> 'Services', 'route'=>'', 'href'=>'#services'),
-            (object) array('name'=> 'Portfolio', 'route'=>'', 'href'=>'#portfolio'),
-            (object) array('name'=> 'Equipe', 'route'=>'', 'href'=>'#team'),
+            // (object) array('name'=> 'Portfolio', 'route'=>'', 'href'=>'#portfolio'),
+            // (object) array('name'=> 'Equipe', 'route'=>'', 'href'=>'#team'),
             (object) array('name'=> 'Blog', 'route'=>'', 'href'=>'blog.html'),
             (object) array('name'=> 'Contact', 'route'=>'', 'href'=>'#contact'),
         );

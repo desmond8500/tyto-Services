@@ -12,8 +12,8 @@ new class extends Component
     <section id="faq" class="faq section">
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <h2>Frequently Asked Questions</h2>
-            <p>Frequently Asked Questions</p>
+            <h2>Foire aux questions</h2>
+            <p>Foire aux questions</p>
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade-up">

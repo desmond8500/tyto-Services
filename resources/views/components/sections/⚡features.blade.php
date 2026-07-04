@@ -14,28 +14,38 @@ new class extends Component
         <div class="container">
 
             <ul class="nav nav-tabs row  d-flex" data-aos="fade-up" data-aos-delay="100">
-                <li class="nav-item col-3">
-                    <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
-                        <i class="bi bi-binoculars"></i>
-                        <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
+                <li class="nav-item col">
+                    <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-1">
+                        <i class="bi bi-circle"></i>
+                        <h4 class="d-none d-lg-block">Détection Incendie</h4>
                     </a>
                 </li>
-                <li class="nav-item col-3">
-                    <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
-                        <i class="bi bi-box-seam"></i>
-                        <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
+
+                <li class="nav-item col">
+                    <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-2">
+                        <i class="bi bi-camera"></i>
+                        <h4 class="d-none d-lg-block">Vidéo Surveillance</h4>
                     </a>
                 </li>
-                <li class="nav-item col-3">
+
+                <li class="nav-item col">
                     <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
-                        <i class="bi bi-brightness-high"></i>
-                        <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
+                        <i class="bi bi-lock"></i>
+                        <h4 class="d-none d-lg-block">Controle daccès</h4>
                     </a>
                 </li>
-                <li class="nav-item col-3">
+
+                <li class="nav-item col">
                     <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-4">
-                        <i class="bi bi-command"></i>
-                        <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
+                        <i class="bi bi-bell"></i>
+                        <h4 class="d-none d-lg-block">Alarme Anti Intrusion</h4>
+                    </a>
+                </li>
+
+                <li class="nav-item col">
+                    <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-5">
+                        <i class="bi bi-brightness-high"></i>
+                        <h4 class="d-none d-lg-block">Domotique</h4>
                     </a>
                 </li>
             </ul><!-- End Tab Nav -->
@@ -141,6 +151,38 @@ new class extends Component
                 </div><!-- End Tab Content Item -->
 
                 <div class="tab-pane fade" id="features-tab-4">
+                    <div class="row">
+                        <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
+                            <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                            <p>
+                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                reprehenderit in voluptate
+                                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+                                non proident, sunt in
+                                culpa qui officia deserunt mollit anim id est laborum
+                            </p>
+                            <p class="fst-italic">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore
+                                magna aliqua.
+                            </p>
+                            <ul>
+                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
+                                        commodo consequat.</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in
+                                        voluptate velit.</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea
+                                        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                                        trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6 order-1 order-lg-2 text-center">
+                            <img src="Selecao-1.0.0/assets/img/working-4.jpg" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div><!-- End Tab Content Item -->
+
+                <div class="tab-pane fade" id="features-tab-5">
                     <div class="row">
                         <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                             <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>

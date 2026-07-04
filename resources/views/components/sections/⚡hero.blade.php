@@ -16,39 +16,64 @@ new class extends Component
             <!-- Slide 1 -->
             <div class="carousel-item active">
                 <div class="carousel-container">
-                    <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Selecao</span></h2>
-                    <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid.
-                        Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut.
-                        Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et
-                        tempore modi architecto.</p>
-                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read
-                        More</a>
+                    <h2 class="animate__animated animate__fadeInDown">Bienvenue chez <span>Tyto</span></h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Nous proposeons des services de qualité pour répondre à vos besoins. Notre équipe est dédiée à fournir des solutions innovantes et efficaces pour vous aider à atteindre vos objectifs.
+                    </p>
+                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">
+                        Plus d'infos
+                    </a>
                 </div>
             </div>
 
             <!-- Slide 2 -->
             <div class="carousel-item">
                 <div class="carousel-container">
-                    <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-                    <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid.
-                        Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut.
-                        Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et
-                        tempore modi architecto.</p>
-                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read
-                        More</a>
+                    <h2 class="animate__animated animate__fadeInDown">Vidéo Surveillance</h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Nous proposons des solutions de vidéosurveillance avancées pour assurer la sécurité de vos locaux et de vos biens. Nos systèmes sont conçus pour offrir une surveillance en temps réel, une détection d'intrusion et un enregistrement vidéo de haute qualité.
+                    </p>
+                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">
+                        Plus d'infos
+                    </a>
                 </div>
             </div>
 
             <!-- Slide 3 -->
             <div class="carousel-item">
                 <div class="carousel-container">
-                    <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-                    <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid.
-                        Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut.
-                        Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et
-                        tempore modi architecto.</p>
-                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read
-                        More</a>
+                    <h2 class="animate__animated animate__fadeInDown">Sécurité Incendie</h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Nous proposons des solutions de sécurité incendie complètes pour protéger vos locaux et vos employés. Nos systèmes sont conçus pour détecter rapidement les incendies, alerter les occupants et les services d'urgence, et minimiser les risques de dommages matériels et corporels.
+                    </p>
+                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">
+                        Plus d'infos
+                    </a>
+                </div>
+            </div>
+
+            <!-- Slide 4 -->
+            <div class="carousel-item">
+                <div class="carousel-container">
+                    <h2 class="animate__animated animate__fadeInDown">Controle d'Accès</h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Nous proposons des solutions de contrôle d'accès avancées pour sécuriser vos locaux et protéger vos biens. Nos systèmes sont conçus pour gérer les accès aux zones sensibles, suivre les mouvements des personnes et garantir la sécurité de vos installations.
+                    </p>
+                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">
+                        Plus d'infos
+                    </a>
+                </div>
+            </div>
+            <!-- Slide 5 -->
+            <div class="carousel-item">
+                <div class="carousel-container">
+                    <h2 class="animate__animated animate__fadeInDown">Alarme Anti-Intrusion</h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Nous proposons des solutions d'alarme anti-intrusion avancées pour protéger vos locaux et vos biens. Nos systèmes sont conçus pour détecter les intrusions, alerter les occupants et les services d'urgence, et minimiser les risques de dommages matériels et corporels.
+                    </p>
+                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">
+                        Plus d'infos
+                    </a>
                 </div>
             </div>
 

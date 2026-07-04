@@ -14,7 +14,7 @@ new class extends Component
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Contact</h2>
-            <p>Contact Us</p>
+            <p>Contactez Nous</p>
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade" data-aos-delay="100">
@@ -22,27 +22,27 @@ new class extends Component
             <div class="row gy-4">
 
                 <div class="col-lg-4">
-                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                    {{-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                         <i class="bi bi-geo-alt flex-shrink-0"></i>
                         <div>
                             <h3>Address</h3>
                             <p>A108 Adam Street, New York, NY 535022</p>
                         </div>
-                    </div><!-- End Info Item -->
+                    </div> --}}
 
                     <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
                         <i class="bi bi-telephone flex-shrink-0"></i>
                         <div>
-                            <h3>Call Us</h3>
-                            <p>+1 5589 55488 55</p>
+                            <h3>Appelez-nous</h3>
+                            <p>+221 77 728 88 95</p>
                         </div>
                     </div><!-- End Info Item -->
 
                     <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
                         <i class="bi bi-envelope flex-shrink-0"></i>
                         <div>
-                            <h3>Email Us</h3>
-                            <p>info@example.com</p>
+                            <h3>Envoyez nous un mail</h3>
+                            <p>contact@tyto-services.com</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -54,15 +54,15 @@ new class extends Component
                         <div class="row gy-4">
 
                             <div class="col-md-6">
-                                <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                                <input type="text" name="name" class="form-control" placeholder="Votre Nom" required="">
                             </div>
 
                             <div class="col-md-6 ">
-                                <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                                <input type="email" class="form-control" name="email" placeholder="Votre Email" required="">
                             </div>
 
                             <div class="col-md-12">
-                                <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+                                <input type="text" class="form-control" name="subject" placeholder="Objet" required="">
                             </div>
 
                             <div class="col-md-12">
@@ -71,11 +71,11 @@ new class extends Component
                             </div>
 
                             <div class="col-md-12 text-center">
-                                <div class="loading">Loading</div>
+                                <div class="loading">Envoi en cours...</div>
                                 <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                                <div class="sent-message">Votre message a été envoyé. Merci!</div>
 
-                                <button type="submit">Send Message</button>
+                                <button type="submit">Envoyer</button>
                             </div>
 
                         </div>
