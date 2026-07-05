@@ -14,7 +14,7 @@ new class extends Component
             (object) array('name'=> 'Services', 'route'=>'', 'href'=>'#services'),
             // (object) array('name'=> 'Portfolio', 'route'=>'', 'href'=>'#portfolio'),
             // (object) array('name'=> 'Equipe', 'route'=>'', 'href'=>'#team'),
-            (object) array('name'=> 'Blog', 'route'=>'', 'href'=>'blog.html'),
+            // (object) array('name'=> 'Blog', 'route'=>'', 'href'=>'blog.html'),
             (object) array('name'=> 'Contact', 'route'=>'', 'href'=>'#contact'),
         );
     }
@@ -38,7 +38,7 @@ new class extends Component
                         <li><a href="{{ $menu->href }}">{{ $menu->name }}</a></li>
                     @endforeach
 
-                    <li class="dropdown"><a href="#"><span>Dropdown</span> <i
+                    {{-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i
                                 class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li><a href="#">Dropdown 1</a></li>
@@ -56,7 +56,7 @@ new class extends Component
                             <li><a href="#">Dropdown 3</a></li>
                             <li><a href="#">Dropdown 4</a></li>
                         </ul>
-                    </li>
+                    </li> --}}
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>

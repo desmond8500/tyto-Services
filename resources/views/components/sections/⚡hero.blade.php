@@ -77,6 +77,19 @@ new class extends Component
                 </div>
             </div>
 
+            <!-- Slide 6 -->
+            <div class="carousel-item">
+                <div class="carousel-container">
+                    <h2 class="animate__animated animate__fadeInDown">Domotique</h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Nous proposons des solutions de domotique avancées pour automatiser et optimiser votre environnement. Nos systèmes sont conçus pour contrôler les appareils électriques, gérer les luminosités, réguler la température et améliorer le confort de vos espaces.
+                    </p>
+                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">
+                        Plus d'infos
+                    </a>
+                </div>
+            </div>
+
             <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
             </a>

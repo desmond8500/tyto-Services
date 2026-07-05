@@ -35,13 +35,13 @@ new class extends Component
     {{-- @livewire('sections.pricing') --}}
 
     <!-- Faq Section -->
-    @livewire('sections.faq')
+    {{-- @livewire('sections.faq') --}}
 
     <!-- Team Section -->
     {{-- @livewire('sections.team') --}}
 
     <!-- Recent Posts Section -->
-    @livewire('sections.recent_post')
+    {{-- @livewire('sections.recent_post') --}}
 
     <!-- Contact Section -->
     @livewire('sections.contact')
